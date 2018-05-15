@@ -12,6 +12,7 @@ Great Resources for Electronics Enthusiasts and Hardware Hackers
 - [Video Tutorials and Courses](#video-tutorials-and-courses)
 - [Websites](#websites)
 - [Miscellaneous](#miscellaneous)
+- [Test for git](#Test-for-git)
 - Other Great Resources
   - [awesome-electronics](https://github.com/monostable/awesome-electronics)
   - [EEVblog Electronics Resource Wiki](https://www.eevblog.com/wiki/index.php?title=Main_Page)
